@@ -1,6 +1,6 @@
 # exchange-rates-task1
 
-- Used Miconaut framework to develop the microservice to expose the currencyExchange rest API.
+- Used Micronaut framework to develop the microservice to expose the currencyExchange rest API.
 
 
 
